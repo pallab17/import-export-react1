@@ -25,7 +25,14 @@ that means i cant change the name of non default export value//fn walader
  import * naam_ja_khusi from "Math.js"
  * = everything
  but ei import ta suggested nah 
-  but if we 
+  but if we use this syntax then
+  <ul>
+    <li>{naam_ja_khusi.pi}</li>  
+    <li>{naam_ja_khusi.doublePi()}</li>
+    <li>{naam_ja_khusi.triplePi()}</li>
+  </ul>
+  erom likhte hoto jeta khub easy to read holeo hard to maintain tai 
+  import everything is not suggested
 
 
 */
